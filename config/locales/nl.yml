@@ -15,19 +15,9 @@ nl:
     extended_description_html: |
       <h3>Een goede plek voor richtlijnen</h3>
       <p>De uitgebreide omschrijving is nog niet ingevuld.</p>
-    features:
-      humane_approach_body: Mastodon heeft van de fouten van andere sociale netwerken geleerd en probeert aan de hand van ethische ontwerpkeuzes misbruik van sociale media te voorkomen.
-      humane_approach_title: Een meer menselijke aanpak
-      not_a_product_body: Mastodon is geen commercieel netwerk. Dus geen advertenties, geen datamining en geen besloten systemen. Er is geen centrale organisatie die alles bepaalt.
-      not_a_product_title: Jij bent een persoon, geen product
-      real_conversation_body: Met 500 tekens tot jouw beschikking en ondersteuning voor tekst- en media-waarschuwingen, kan je jezelf uiten zoals jij dat wil.
-      real_conversation_title: Voor echte gesprekken gemaakt
-      within_reach_body: Meerdere apps voor iOS, Android en andere platformen, met dank aan het ontwikkelaarsvriendelijke API-systeem, zorgen ervoor dat je overal op de hoogte blijft.
-      within_reach_title: Altijd binnen bereik
     generic_description: "%{domain} is een server in het Mastodonnetwerk"
     hosted_on: Mastodon op %{domain}
     learn_more: Meer leren
-    other_instances: Andere servers
     privacy_policy: Privacybeleid
     source_code: Broncode
     status_count_after:

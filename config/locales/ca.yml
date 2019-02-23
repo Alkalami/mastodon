@@ -15,19 +15,9 @@ ca:
     extended_description_html: |
       <h3>Un bon lloc per les regles</h3>
       <p>Encara no s'ha configurat la descripció ampliada.</p>
-    features:
-      humane_approach_body: Aprenent dels errors d'altres xarxes, Mastodon té com a objectiu fer eleccions ètiques de disseny per a combatre el mal ús de les xarxes socials.
-      humane_approach_title: Un enfocament més humà
-      not_a_product_body: Mastodon no és una xarxa comercial. Sense publicitat, sense mineria de dades, sense jardins emmurallats. No hi ha cap autoritat central.
-      not_a_product_title: Ets una persona, no un producte
-      real_conversation_body: Amb 500 caràcters a la teva disposició i suport per a continguts granulars i avisos multimèdia, pots expressar-te de la manera que vulguis.
-      real_conversation_title: Construït per a converses reals
-      within_reach_body: Diverses aplicacions per a iOS, Android i altres plataformes gràcies a un ecosistema API amable amb el desenvolupador, et permet mantenir-te al dia amb els amics en qualsevol lloc..
-      within_reach_title: Sempre a l'abast
     generic_description: "%{domain} és un servidor a la xarxa"
     hosted_on: Mastodon allotjat a %{domain}
     learn_more: Més informació
-    other_instances: Altres instàncies
     privacy_policy: Política de privacitat
     source_code: Codi font
     status_count_after:

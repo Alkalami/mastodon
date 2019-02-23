@@ -68,6 +68,17 @@ code {
         top: 2px;
         left: 0;
       }
+
+      label a {
+        color: $highlight-text-color;
+        text-decoration: underline;
+
+        &:hover,
+        &:active,
+        &:focus {
+          text-decoration: none;
+        }
+      }
     }
   }
 
@@ -305,7 +316,7 @@ code {
       box-shadow: none;
     }
 
-    &:focus:invalid {
+    &:focus:invalid:not(:placeholder-shown) {
       border-color: lighten($error-red, 12%);
     }
 

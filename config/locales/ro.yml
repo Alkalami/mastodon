@@ -1,8 +1,6 @@
 ---
 ro:
   about:
-    features:
-      not_a_product_title: Ești o persoană, nu un produs
     hosted_on: Mastodon găzduit de %{domain}
   accounts:
     posts:

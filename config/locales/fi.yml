@@ -15,19 +15,9 @@ fi:
     extended_description_html: |
       <h3>Hyvä paikka säännöille</h3>
       <p>Pidempää kuvausta ei ole vielä laadittu.</p>
-    features:
-      humane_approach_body: Mastodonissa otetaan oppia muiden verkostojen virheistä, ja sen suunnittelussa pyritään toimimaan eettisesti ja ehkäisemään sosiaalisen median väärinkäyttöä.
-      humane_approach_title: Ihmisläheisempi ote
-      not_a_product_body: Mastodon ei ole kaupallinen verkosto. Ei mainoksia, ei tiedonlouhintaa, ei suljettuja protokollia. Mastodonissa ei ole keskusjohtoa.
-      not_a_product_title: Olet henkilö, et tuote
-      real_conversation_body: 'Voit ilmaista itseäsi niin kuin itse haluat: tilaa on 500 merkkiä, ja sisältövaroituksia voi tehdä monin tavoin.'
-      real_conversation_title: Tehty oikeaa keskustelua varten
-      within_reach_body: Rajapintoja on tarjolla moniin eri kehitysympäristöihin, minkä ansiosta iOS:lle, Androidille ja muille alustoille on saatavana useita eri sovelluksia. Näin voit pitää yhteyttä ystäviisi missä vain.
-      within_reach_title: Aina lähellä
     generic_description: "%{domain} on yksi verkostoon kuuluvista palvelimista"
     hosted_on: Mastodon palvelimella %{domain}
     learn_more: Lisätietoja
-    other_instances: Muut palvelimet
     privacy_policy: Tietosuojaseloste
     source_code: Lähdekoodi
     status_count_after:

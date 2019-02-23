@@ -15,19 +15,9 @@ es:
     extended_description_html: |
       <h3>Un buen lugar para las reglas</h3>
       <p>La descripción extendida no se ha colocado aún.</p>
-    features:
-      humane_approach_body: Aprendiendo de los errores de otras redes, Mastodon apunta a las decisiones de diseño ético para combatir el desuso de las redes sociales.
-      humane_approach_title: Una misión más humana
-      not_a_product_body: Mastodon no es una red comercial. Nada de publicidad, nada de minado de datos, nada de jardines murados. No hay ninguna autoridad central.
-      not_a_product_title: Eres una persona, no un producto
-      real_conversation_body: Con 500 caracteres a tu disposición y soporte para contenido granular y advertencias de contenido, puedes expresarte como quieras.
-      real_conversation_title: Hecho para verdaderas conversaciones
-      within_reach_body: Aplicaciones múltiples para iOS, Android, y otras plataformas gracias a un ecosistema de APIs amigable al desarrollador para permitirte estar con tus amigos donde sea.
-      within_reach_title: Siempre al alcance
     generic_description: "%{domain} es un servidor en la red"
     hosted_on: Mastodon hosteado en %{domain}
     learn_more: Aprende más
-    other_instances: Otras instancias
     privacy_policy: Política de privacidad
     source_code: Código fuente
     status_count_after:

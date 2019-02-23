@@ -15,19 +15,9 @@ cy:
     extended_description_html: |
       <h3>Lle da ar gyfer rheolau</h3>
       <p>Nid yw'r disgrifiad estynedig wedi ei osod eto.</p>
-    features:
-      humane_approach_body: Gan ddysgu o fethiannau rhwydweithiau eraill, mae Mastodon yn anelu i wneud penderfyniadau dylunio moesol i ymladd camddefnydd o gyfryngau cymdeithasol.
-      humane_approach_title: Agwedd fwy dynol
-      not_a_product_body: Nid yw Mastodon yn rwydwaith masnachol. Nid oes hysbysebion, cloddio data na gerddi caeedig. Nid oes awdurdod canolog.
-      not_a_product_title: Rwyt yn berson, nid yn beth
-      real_conversation_body: Gyda'r modd i ddefnyddio hyd at 500 o nodau a chefnogaeth ar gyfer cynnwys gronynnol a rhybuddion cyfryngau, mae modd i chi fynegi'ch hun yn y ffordd yr hoffech chi.
-      real_conversation_title: Wedi ei adeiladu ar gyfer sgyrsiau go iawn
-      within_reach_body: Nifer o apiau ar gyfer iOS, Android, a nifer blatfformau eraill diolch i amgylchedd API hygyrch i ddatblygwyr sy'n caniatau i chi gadw mewn cysylltiad a'ch ffrindiau o unrhywle.
-      within_reach_title: Bob tro o fewn gafael
     generic_description: Mae %{domain} yn un gweinydd yn y rhwydwaith
     hosted_on: Mastodon wedi ei weinyddu ar %{domain}
     learn_more: Dysu mwy
-    other_instances: Rhestr achosion
     privacy_policy: Polisi preifatrwydd
     source_code: Cod ffynhonnell
     status_count_after:

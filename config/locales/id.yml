@@ -15,19 +15,9 @@ id:
     extended_description_html: |
       <h3>Tempat yang baik untuk peraturan</h3>
       <p>Deskripsi lainnya belum diset.</p>
-    features:
-      humane_approach_body: Belajar dari kegagalan jaringan lain, Mastodon berupaya untuk membuat pilihan desain yang etis untuk melawan penyalahgunaan media sosial.
-      humane_approach_title: Pendekatan yang lebih manusiawi
-      not_a_product_body: Mastodon bukanlah jaringan komersil. Tidak ada iklan, tidak ada pengumpulan data, tidak ada batasan vendor. Tidak ada otoritas terpusat.
-      not_a_product_title: Anda adalah orang, bukanlah sebuah produk
-      real_conversation_body: Dengan 500 karakter dan dukungan konten granular dan peringatan media, anda dapat mengekspresikan diri anda sendiri sesuai yang anda mau.
-      real_conversation_title: Dibangun untuk percakapan yang sebenarnya
-      within_reach_body: Berbagai aplikasi untuk iOS, Android, dan platform lainnya berkat ekosistem API yang ramah pada pengembang untuk tetap terhubung dengan teman-teman anda dimanapun.
-      within_reach_title: Selalu dalam jangkauan
     generic_description: "%{domain} adalah satu server dalam jaringan"
     hosted_on: Mastodon dihosting di %{domain}
     learn_more: Pelajari selengkapnya
-    other_instances: Daftar Server
     privacy_policy: Kebijakan Privasi
     source_code: Kode sumber
     status_count_after:
